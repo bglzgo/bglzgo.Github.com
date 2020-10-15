@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BGLZGO</title>
+  
+  <subtitle>BglzBlog</subtitle>
+  <link href="https://www.bglzgo.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.bglzgo.top/"/>
+  <updated>2020-10-15T11:54:38.117Z</updated>
+  <id>https://www.bglzgo.top/</id>
+  
+  <author>
+    <name>Zheng Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://www.bglzgo.top/2020/10/15/blog1/"/>
+    <id>https://www.bglzgo.top/2020/10/15/blog1/</id>
+    <published>2020-10-15T11:52:00.000Z</published>
+    <updated>2020-10-15T11:54:38.117Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;������������&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://www.bglzgo.top/2020/10/15/blog2/"/>
+    <id>https://www.bglzgo.top/2020/10/15/blog2/</id>
+    <published>2020-10-15T11:52:00.000Z</published>
+    <updated>2020-10-15T11:54:55.101Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;������������&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://www.bglzgo.top/2020/10/15/blog4/"/>
+    <id>https://www.bglzgo.top/2020/10/15/blog4/</id>
+    <published>2020-10-15T11:52:00.000Z</published>
+    <updated>2020-10-15T11:53:00.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;������������&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://www.bglzgo.top/2020/10/15/blog3/"/>
+    <id>https://www.bglzgo.top/2020/10/15/blog3/</id>
+    <published>2020-10-15T11:52:00.000Z</published>
+    <updated>2020-10-15T11:53:00.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;������������&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://www.bglzgo.top/2020/10/15/blog5/"/>
+    <id>https://www.bglzgo.top/2020/10/15/blog5/</id>
+    <published>2020-10-15T11:52:00.000Z</published>
+    <updated>2020-10-15T11:53:00.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;������������&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.bglzgo.top/2020/10/11/hello-world/"/>
+    <id>https://www.bglzgo.top/2020/10/11/hello-world/</id>
+    <published>2020-10-11T00:35:11.871Z</published>
+    <updated>2020-10-11T00:35:11.871Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
