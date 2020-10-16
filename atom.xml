@@ -6,7 +6,7 @@
   <link href="https://www.bglzgo.top/atom.xml" rel="self"/>
   
   <link href="https://www.bglzgo.top/"/>
-  <updated>2020-10-16T02:34:04.485Z</updated>
+  <updated>2020-10-16T02:45:42.845Z</updated>
   <id>https://www.bglzgo.top/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试博客2</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog2/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog2/</id>
+    <title>测试博客1</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:34:04.485Z</updated>
+    <updated>2020-10-16T02:45:42.845Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客3</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T02:45:17.848Z</updated>
     
     
       
@@ -48,7 +75,34 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog4/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog4/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:34:15.859Z</updated>
+    <updated>2020-10-16T02:45:42.839Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客2</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog2/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog2/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T02:41:46.446Z</updated>
     
     
       
@@ -75,7 +129,7 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog5/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog5/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:19:31.569Z</updated>
+    <updated>2020-10-16T02:45:47.801Z</updated>
     
     
       
@@ -102,7 +156,7 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog6/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog6/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:18:50.756Z</updated>
+    <updated>2020-10-16T02:45:51.811Z</updated>
     
     
       
