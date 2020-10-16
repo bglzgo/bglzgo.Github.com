@@ -6,7 +6,7 @@
   <link href="https://www.bglzgo.top/atom.xml" rel="self"/>
   
   <link href="https://www.bglzgo.top/"/>
-  <updated>2020-10-16T06:04:34.016Z</updated>
+  <updated>2020-10-16T07:16:39.051Z</updated>
   <id>https://www.bglzgo.top/</id>
   
   <author>
@@ -17,21 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试博客1</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T07:16:39.051Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;../../../../content_image/machine_learning/blog2/svm.jpg&quot; alt=&quot;alt</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试博客2</title>
     <link href="https://www.bglzgo.top/2020/10/16/blog2/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog2/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T06:04:34.016Z</updated>
+    <updated>2020-10-16T08:39:29.488Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println(&quot;Hello World!&quot;);
-   </summary>
+    <summary type="html">&lt;pre class=&quot; language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;class&lt;/span&gt;</summary>
         
       
     
@@ -51,44 +76,14 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T06:46:08.196Z</updated>
+    <updated>2020-10-16T07:13:12.213Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre&gt;&lt;code&gt;var bmapcfg = {
-    &#39;imgext&#39;      : &#39;.jpg&#39;,   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg
-    &#39;tiles_dir&#39;   : &#39;&#39;,      </summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试博客1</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
-    <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T06:13:15.950Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;../../../../content_image/machine_learning/blog2/svm.jpg&quot; alt=&quot;alt</summary>
+    <summary type="html">&lt;pre class=&quot; language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; bmapcfg &lt;span class=&quot;token</summary>
         
       
     
@@ -135,17 +130,14 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog5/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog5/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T06:13:39.928Z</updated>
+    <updated>2020-10-16T07:13:56.475Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println(&quot;Hello World!&quot;);
-   </summary>
+    <summary type="html">&lt;pre class=&quot; language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; bmapcfg &lt;span class=&quot;token</summary>
         
       
     
@@ -165,17 +157,14 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog6/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog6/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T06:13:39.922Z</updated>
+    <updated>2020-10-16T07:14:02.258Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println(&quot;Hello World!&quot;);
-   </summary>
+    <summary type="html">&lt;pre class=&quot; language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; bmapcfg &lt;span class=&quot;token</summary>
         
       
     
