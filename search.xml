@@ -8,61 +8,7 @@
       <link href="2020/10/16/blog1/"/>
       <url>2020/10/16/blog1/</url>
       
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/machine_learning/blog2/svm.jpg" alt="alt 测试图片"></h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试博客3</title>
-      <link href="2020/10/16/blog3/"/>
-      <url>2020/10/16/blog3/</url>
-      
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/NLP/blog1/nlp.jpg" alt="Seq2Seq序列图片"></h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试博客4</title>
-      <link href="2020/10/16/blog4/"/>
-      <url>2020/10/16/blog4/</url>
-      
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/machine_learning/blog2/svm.jpg" alt="alt 测试图片"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2><div style="text-align: center;"><figure><img src="../../../../content_image/machine_learning/blog2/svm.jpg" style="width: 30em;; float: left; height:25em;"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" style="width: 30em;; float: left; height:25em;"></figure></div>---------<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre>---]]></content>
       
       
       <categories>
@@ -89,7 +35,61 @@
       <link href="2020/10/16/blog2/"/>
       <url>2020/10/16/blog2/</url>
       
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
+        <content type="html"><![CDATA[<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre><hr><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客3</title>
+      <link href="2020/10/16/blog3/"/>
+      <url>2020/10/16/blog3/</url>
+      
+        <content type="html"><![CDATA[<pre><code>var bmapcfg = {    'imgext'      : '.jpg',   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg    'tiles_dir'   : '',       //普通瓦片图的地址，为空默认在 offlinemap/tiles/ 目录    'tiles_hybrid': '',       //卫星瓦片图的地址，为空默认在 offlinemap/tiles_hybrid/ 目录    'tiles_self'  : ''        //自定义图层的地址，为空默认在 offlinemap/tiles_self/ 目录};var scripts = document.getElementsByTagName("script");var JS_FILE__ = scripts[scripts.length - 1].getAttribute("src"); // 获得当前js文件路径bmapcfg.home = JS_FILE__.substr(0,JS_FILE__.lastIndexOf("/")+1); //地图主 API目录(function(){    window.BMap_loadScriptTime = (new Date).getTime();    //加载地图API主文件    document.write('&lt;script type="text/javascript" src="'+bmapcfg.home+'bmap_offline_api_v3.0_min.js"&gt;&lt;/script&gt;'); })();</code></pre><hr><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/NLP/blog1/nlp.jpg" alt="Seq2Seq序列图片"></h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客4</title>
+      <link href="2020/10/16/blog4/"/>
+      <url>2020/10/16/blog4/</url>
+      
+        <content type="html"><![CDATA[<pre class=" language-javascript"><code class="language-javascript"><span class="token keyword">var</span> bmapcfg <span class="token operator">=</span> <span class="token punctuation">{</span>    <span class="token string">'imgext'</span>      <span class="token punctuation">:</span> <span class="token string">'.jpg'</span><span class="token punctuation">,</span>   <span class="token comment" spellcheck="true">//瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg</span>    <span class="token string">'tiles_dir'</span>   <span class="token punctuation">:</span> <span class="token string">''</span><span class="token punctuation">,</span>       <span class="token comment" spellcheck="true">//普通瓦片图的地址，为空默认在 offlinemap/tiles/ 目录</span>    <span class="token string">'tiles_hybrid'</span><span class="token punctuation">:</span> <span class="token string">''</span><span class="token punctuation">,</span>       <span class="token comment" spellcheck="true">//卫星瓦片图的地址，为空默认在 offlinemap/tiles_hybrid/ 目录</span>    <span class="token string">'tiles_self'</span>  <span class="token punctuation">:</span> <span class="token string">''</span>        <span class="token comment" spellcheck="true">//自定义图层的地址，为空默认在 offlinemap/tiles_self/ 目录</span><span class="token punctuation">}</span><span class="token punctuation">;</span><span class="token keyword">var</span> scripts <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">getElementsByTagName</span><span class="token punctuation">(</span><span class="token string">"script"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token keyword">var</span> JS_FILE__ <span class="token operator">=</span> scripts<span class="token punctuation">[</span>scripts<span class="token punctuation">.</span>length <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function">getAttribute</span><span class="token punctuation">(</span><span class="token string">"src"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">// 获得当前js文件路径</span>bmapcfg<span class="token punctuation">.</span>home <span class="token operator">=</span> JS_FILE__<span class="token punctuation">.</span><span class="token function">substr</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span>JS_FILE__<span class="token punctuation">.</span><span class="token function">lastIndexOf</span><span class="token punctuation">(</span><span class="token string">"/"</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment" spellcheck="true">//地图主 API目录</span><span class="token punctuation">(</span><span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>    window<span class="token punctuation">.</span>BMap_loadScriptTime <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token keyword">new</span> <span class="token class-name">Date</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">getTime</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>    <span class="token comment" spellcheck="true">//加载地图API主文件</span>    document<span class="token punctuation">.</span><span class="token function">write</span><span class="token punctuation">(</span><span class="token string">'&lt;script type="text/javascript" src="'</span><span class="token operator">+</span>bmapcfg<span class="token punctuation">.</span>home<span class="token operator">+</span><span class="token string">'bmap_offline_api_v3.0_min.js">&lt;/script>'</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
       
       
       <categories>
@@ -116,7 +116,7 @@
       <link href="2020/10/16/blog5/"/>
       <url>2020/10/16/blog5/</url>
       
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
+        <content type="html"><![CDATA[<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
       
       
       <categories>
@@ -143,7 +143,7 @@
       <link href="2020/10/16/blog6/"/>
       <url>2020/10/16/blog6/</url>
       
-        <content type="html"><![CDATA[<p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
+        <content type="html"><![CDATA[<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2>]]></content>
       
       
       <categories>

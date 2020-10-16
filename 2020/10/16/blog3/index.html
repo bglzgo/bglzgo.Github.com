@@ -32,7 +32,7 @@
 <meta name="generator" content="Hexo 5.2.0">
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
 <link rel="alternate" href="/atom.xml" title="BGLZGO" type="application/atom+xml">
-<link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
+</head>
 
 
 
@@ -395,7 +395,20 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p>
+                <pre><code>var bmapcfg = {
+    'imgext'      : '.jpg',   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg
+    'tiles_dir'   : '',       //普通瓦片图的地址，为空默认在 offlinemap/tiles/ 目录
+    'tiles_hybrid': '',       //卫星瓦片图的地址，为空默认在 offlinemap/tiles_hybrid/ 目录
+    'tiles_self'  : ''        //自定义图层的地址，为空默认在 offlinemap/tiles_self/ 目录
+};
+var scripts = document.getElementsByTagName("script");
+var JS_FILE__ = scripts[scripts.length - 1].getAttribute("src"); // 获得当前js文件路径
+bmapcfg.home = JS_FILE__.substr(0,JS_FILE__.lastIndexOf("/")+1); //地图主 API目录
+(function(){
+    window.BMap_loadScriptTime = (new Date).getTime();
+    //加载地图API主文件
+    document.write('&lt;script type="text/javascript" src="'+bmapcfg.home+'bmap_offline_api_v3.0_min.js"&gt;&lt;/script&gt;'); 
+})();</code></pre>
 <hr>
 <hr>
 <h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/NLP/blog1/nlp.jpg" alt="Seq2Seq序列图片"></h2>
@@ -539,12 +552,12 @@
             <div class="article-badge left-badge text-color">
                 <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/10/16/blog1/">
+                <a href="/2020/10/16/blog2/">
                     <div class="card-image">
                         
-                        <img src="/../background_images/0.jpg" class="responsive-img" alt="测试博客1">
+                        <img src="/../background_images/1.jpg" class="responsive-img" alt="测试博客2">
                         
-                        <span class="card-title">测试博客1</span>
+                        <span class="card-title">测试博客2</span>
                     </div>
                 </a>
                 <div class="card-content article-content">

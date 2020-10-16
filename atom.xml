@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>BGLZGO</title>
   
-  <subtitle>BglzBlog</subtitle>
+  <subtitle>Bglz Blog</subtitle>
   <link href="https://www.bglzgo.top/atom.xml" rel="self"/>
   
   <link href="https://www.bglzgo.top/"/>
-  <updated>2020-10-16T02:45:42.845Z</updated>
+  <updated>2020-10-16T06:13:15.950Z</updated>
   <id>https://www.bglzgo.top/</id>
   
   <author>
@@ -21,68 +21,15 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:45:42.845Z</updated>
+    <updated>2020-10-16T06:13:15.950Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试博客3</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
-    <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:45:17.848Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试博客4</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog4/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog4/</id>
-    <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:45:42.839Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;../../../../content_image/machine_learning/blog2/svm.jpg&quot; alt=&quot;alt</summary>
         
       
     
@@ -102,14 +49,73 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog2/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog2/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:41:46.446Z</updated>
+    <updated>2020-10-16T06:04:34.016Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(&quot;Hello World!&quot;);
+   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客3</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T06:46:08.196Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;var bmapcfg = {
+    &#39;imgext&#39;      : &#39;.jpg&#39;,   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg
+    &#39;tiles_dir&#39;   : &#39;&#39;,      </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客4</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog4/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog4/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T06:46:48.217Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot; language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; bmapcfg &lt;span class=&quot;token</summary>
         
       
     
@@ -129,14 +135,17 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog5/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog5/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:45:47.801Z</updated>
+    <updated>2020-10-16T06:13:39.928Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(&quot;Hello World!&quot;);
+   </summary>
         
       
     
@@ -156,14 +165,17 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog6/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog6/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T02:45:51.811Z</updated>
+    <updated>2020-10-16T06:13:39.922Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;pre&gt;&lt;code&gt;public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(&quot;Hello World!&quot;);
+   </summary>
         
       
     
