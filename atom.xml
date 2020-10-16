@@ -6,7 +6,7 @@
   <link href="https://www.bglzgo.top/atom.xml" rel="self"/>
   
   <link href="https://www.bglzgo.top/"/>
-  <updated>2020-10-16T01:47:41.252Z</updated>
+  <updated>2020-10-16T02:18:20.069Z</updated>
   <id>https://www.bglzgo.top/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog2/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog2/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:47:41.252Z</updated>
+    <updated>2020-10-16T02:18:20.069Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
         
       
     
@@ -44,18 +44,45 @@
   </entry>
   
   <entry>
-    <title>测试博客1</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
+    <title>测试博客3</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:47:50.691Z</updated>
+    <updated>2020-10-16T02:20:25.780Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客4</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog4/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog4/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T02:19:22.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
         
       
     
@@ -75,68 +102,14 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog5/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog5/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:48:07.479Z</updated>
+    <updated>2020-10-16T02:19:31.569Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
-        
-      
-    
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
-    
-    
-    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>typora-vue-theme主题介绍</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog3/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog3/</id>
-    <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:33:58.207Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;冬醒来，变魔术似的为大地盖上了厚厚的素色“棉被”。极目远望，洁白一片。茫茫四野，似乎没有了色彩，没有了生机，唯有寂静——这也许是人们对冬天的最初印象吧。请千万不要这么认为！其实冬天就是一幅大写意的泼墨画，朴素中透露着高雅；冬天，是一曲别样动听的歌，此处无声</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/categories/Markdown/"/>
-    
-    
-    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
-    
-    <category term="Typora" scheme="https://www.bglzgo.top/tags/Typora/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试博客4</title>
-    <link href="https://www.bglzgo.top/2020/10/16/blog4/"/>
-    <id>https://www.bglzgo.top/2020/10/16/blog4/</id>
-    <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:48:01.485Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
         
       
     
@@ -156,14 +129,41 @@
     <link href="https://www.bglzgo.top/2020/10/16/blog6/"/>
     <id>https://www.bglzgo.top/2020/10/16/blog6/</id>
     <published>2020-10-16T01:32:00.000Z</published>
-    <updated>2020-10-16T01:48:15.997Z</updated>
+    <updated>2020-10-16T02:18:50.756Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;—bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.bglzgo.top/tags/Java/"/>
+    
+    <category term="Markdown" scheme="https://www.bglzgo.top/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客1</title>
+    <link href="https://www.bglzgo.top/2020/10/16/blog1/"/>
+    <id>https://www.bglzgo.top/2020/10/16/blog1/</id>
+    <published>2020-10-16T01:32:00.000Z</published>
+    <updated>2020-10-16T02:19:58.373Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;bash&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(“Hello World!”);&lt;br&gt;   </summary>
         
       
     
