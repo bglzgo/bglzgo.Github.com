@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>测试博客1</title>
-      <link href="2020/10/16/blog1/"/>
-      <url>2020/10/16/blog1/</url>
-      
-        <content type="html"><![CDATA[<hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/machine_learning/blog2/svm.jpg" alt="alt 测试图片"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2><div style="text-align: center;"><figure><img src="../../../../content_image/machine_learning/blog2/svm.jpg" style="width: 30em;; float: left; height:25em;"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" style="width: 30em;; float: left; height:25em;"></figure></div>---------<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre>---]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Java </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试博客2</title>
       <link href="2020/10/16/blog2/"/>
       <url>2020/10/16/blog2/</url>
@@ -63,6 +36,33 @@
       <url>2020/10/16/blog3/</url>
       
         <content type="html"><![CDATA[<pre><code>var bmapcfg = {    'imgext'      : '.jpg',   //瓦片图的后缀 ------ 根据需要修改，一般是 .png .jpg    'tiles_dir'   : '',       //普通瓦片图的地址，为空默认在 offlinemap/tiles/ 目录    'tiles_hybrid': '',       //卫星瓦片图的地址，为空默认在 offlinemap/tiles_hybrid/ 目录    'tiles_self'  : ''        //自定义图层的地址，为空默认在 offlinemap/tiles_self/ 目录};var scripts = document.getElementsByTagName("script");var JS_FILE__ = scripts[scripts.length - 1].getAttribute("src"); // 获得当前js文件路径bmapcfg.home = JS_FILE__.substr(0,JS_FILE__.lastIndexOf("/")+1); //地图主 API目录(function(){    window.BMap_loadScriptTime = (new Date).getTime();    //加载地图API主文件    document.write('&lt;script type="text/javascript" src="'+bmapcfg.home+'bmap_offline_api_v3.0_min.js"&gt;&lt;/script&gt;'); })();</code></pre><hr><hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/NLP/blog1/nlp.jpg" alt="Seq2Seq序列图片"></h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客1</title>
+      <link href="2020/10/16/blog1/"/>
+      <url>2020/10/16/blog1/</url>
+      
+        <content type="html"><![CDATA[<hr><h2 id=""><a href="#" class="headerlink" title=""></a><img src="../../../../content_image/machine_learning/blog2/svm.jpg" alt="alt 测试图片"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" alt="alt 测试图片"></h2><div style="text-align: center;"><figure><img src="../../../../content_image/machine_learning/blog2/svm.jpg" style="width: 30em;; float: left; height:25em;"><img src="../../../../content_image/deep_learning/blog1/cnn.jpg" style="width: 30em;; float: left; height:25em;"></figure></div>---------<pre><code>public class HelloWorld {    public static void main(String[] args) {        System.out.println("Hello World!");    }}</code></pre>---]]></content>
       
       
       <categories>
