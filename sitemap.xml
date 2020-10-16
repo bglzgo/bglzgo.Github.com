@@ -2,30 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.bglzgo.top/2020/10/15/blog4/</loc>
+    <loc>https://www.bglzgo.top/2020/10/16/blog6/</loc>
     
-    <lastmod>2020-10-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bglzgo.top/2020/10/15/blog3/</loc>
-    
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.bglzgo.top/2020/10/15/blog2/</loc>
+    <loc>https://www.bglzgo.top/2020/10/16/blog5/</loc>
     
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.bglzgo.top/2020/10/15/blog1/</loc>
+    <loc>https://www.bglzgo.top/2020/10/16/blog4/</loc>
     
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bglzgo.top/2020/10/16/blog1/</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bglzgo.top/2020/10/16/blog2/</loc>
+    
+    <lastmod>2020-10-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.bglzgo.top/2020/10/16/blog3/</loc>
+    
+    <lastmod>2020-10-16</lastmod>
     
   </url>
   
@@ -45,13 +59,6 @@
   
   <url>
     <loc>https://www.bglzgo.top/about/index.html</loc>
-    
-    <lastmod>2020-10-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.bglzgo.top/2020/10/15/blog5/</loc>
     
     <lastmod>2020-10-15</lastmod>
     
@@ -95,22 +102,29 @@
 
   <url>
     <loc>https://www.bglzgo.top/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.bglzgo.top/tags/Typora/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <loc>https://www.bglzgo.top/tags/Java/</loc>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.bglzgo.top/tags/Markdown/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bglzgo.top/tags/Typora/</loc>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -118,8 +132,15 @@
 
   
   <url>
+    <loc>https://www.bglzgo.top/categories/Java/</loc>
+    <lastmod>2020-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.bglzgo.top/categories/Markdown/</loc>
-    <lastmod>2020-10-15</lastmod>
+    <lastmod>2020-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

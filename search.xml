@@ -4,11 +4,92 @@
   
     
     <entry>
-      <title>typora-vue-theme�������</title>
-      <link href="2020/10/15/blog1/"/>
-      <url>2020/10/15/blog1/</url>
+      <title>测试博客2</title>
+      <link href="2020/10/16/blog2/"/>
+      <url>2020/10/16/blog2/</url>
       
-        <content type="html"><![CDATA[<hr><p>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ</p><hr>]]></content>
+        <content type="html"><![CDATA[<p>—bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客1</title>
+      <link href="2020/10/16/blog1/"/>
+      <url>2020/10/16/blog1/</url>
+      
+        <content type="html"><![CDATA[<p>—bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试博客5</title>
+      <link href="2020/10/16/blog5/"/>
+      <url>2020/10/16/blog5/</url>
+      
+        <content type="html"><![CDATA[<p>—bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="2020/10/16/blog3/"/>
+      <url>2020/10/16/blog3/</url>
+      
+        <content type="html"><![CDATA[<p>—bash<br>冬醒来，变魔术似的为大地盖上了厚厚的素色“棉被”。极目远望，洁白一片。茫茫四野，似乎没有了色彩，没有了生机，唯有寂静——这也许是人们对冬天的最初印象吧。请千万不要这么认为！其实冬天就是一幅大写意的泼墨画，朴素中透露着高雅；冬天，是一曲别样动听的歌，此处无声胜有声。</p><hr>]]></content>
       
       
       <categories>
@@ -20,9 +101,9 @@
       
         <tags>
             
-            <tag> Typora </tag>
-            
             <tag> Markdown </tag>
+            
+            <tag> Typora </tag>
             
         </tags>
       
@@ -31,23 +112,23 @@
     
     
     <entry>
-      <title>typora-vue-theme�������</title>
-      <link href="2020/10/15/blog2/"/>
-      <url>2020/10/15/blog2/</url>
+      <title>测试博客4</title>
+      <link href="2020/10/16/blog4/"/>
+      <url>2020/10/16/blog4/</url>
       
-        <content type="html"><![CDATA[<hr><p>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ</p><hr>]]></content>
+        <content type="html"><![CDATA[<p>—bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr>]]></content>
       
       
       <categories>
           
-          <category> Markdown </category>
+          <category> Java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Typora </tag>
+            <tag> Java </tag>
             
             <tag> Markdown </tag>
             
@@ -58,67 +139,27 @@
     
     
     <entry>
-      <title>typora-vue-theme�������</title>
-      <link href="2020/10/15/blog3/"/>
-      <url>2020/10/15/blog3/</url>
+      <title>测试博客6</title>
+      <link href="2020/10/16/blog6/"/>
+      <url>2020/10/16/blog6/</url>
       
-        <content type="html"><![CDATA[<hr><p>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ</p><hr>]]></content>
+        <content type="html"><![CDATA[<p>—bash<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(“Hello World!”);<br>    }<br>}</p><hr>]]></content>
       
       
       <categories>
           
-          <category> Markdown </category>
+          <category> Java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Typora </tag>
+            <tag> Java </tag>
             
             <tag> Markdown </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>typora-vue-theme�������</title>
-      <link href="2020/10/15/blog4/"/>
-      <url>2020/10/15/blog4/</url>
-      
-        <content type="html"><![CDATA[<hr><p>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ<br>�������Զ��������ժҪ���ݣ�������������ֵ�����¿�ƬժҪ����ʾ������֣����������Զ���ȡ���µĲ���������ΪժҪ</p><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello world</title>
-      <link href="2020/10/15/blog5/"/>
-      <url>2020/10/15/blog5/</url>
-      
-        <content type="html"><![CDATA[<p>������������</p>]]></content>
-      
-      
       
     </entry>
     
